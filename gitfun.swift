@@ -1,6 +1,6 @@
 var myFirstChange = "This is a change"
 
-var eggs = 5
+var eggs = 6
 
 var name = "Tony"
 
